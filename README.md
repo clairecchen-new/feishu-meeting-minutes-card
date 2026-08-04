@@ -1,8 +1,7 @@
 # feishu-meeting-minutes-card
 
-> 面向 Claude Code / MiniMax Code 的飞书会议纪要卡片 Skill
-
 将飞书会议纪要文档（语音转写或手动记录）整理为结构清晰、格式统一的飞书 interactive 卡片。
+> 面向 Claude Code / MiniMax Code 的飞书会议纪要卡片 Skill
 
 ## 功能
 
@@ -97,6 +96,7 @@ feishu-meeting-minutes-card/
 ## 效果示例
 
 参考案例暂不随仓库公开，请根据自己的会议场景补充脱敏后的截图或示例内容。
+
 
 ## License
 
