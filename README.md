@@ -1,7 +1,7 @@
 # feishu-meeting-minutes-card
 
 将飞书会议纪要文档（语音转写或手动记录）整理为结构清晰、格式统一的飞书 interactive 卡片。
-> 面向 Claude Code / MiniMax Code 的飞书会议纪要卡片 Skill
+> 面向 Claude Code / Codex / MiniMax Code 的飞书会议纪要卡片 Skill
 
 ## 功能
 
@@ -14,7 +14,7 @@
 
 ## 前置条件
 
-- 已安装 Claude Code 或 MiniMax Code
+- 已安装 Claude Code、Codex 或 MiniMax Code
 - 已配置可读取飞书文档、发送飞书消息的 MCP / CLI 工具
 - 飞书应用具备文档读取与消息发送权限
 - 目标文档已向对应 Bot 或应用开放阅读权限
@@ -29,6 +29,26 @@
 mkdir -p ~/.claude/skills/feishu-meeting-minutes-card
 cp SKILL.md ~/.claude/skills/feishu-meeting-minutes-card/SKILL.md
 ```
+
+### Codex
+
+安装为用户级 Skill，可在所有项目中使用：
+
+```bash
+mkdir -p ~/.agents/skills/feishu-meeting-minutes-card
+cp SKILL.md ~/.agents/skills/feishu-meeting-minutes-card/SKILL.md
+```
+
+如果只想在当前项目中使用，可安装到项目目录：
+
+```bash
+mkdir -p .agents/skills/feishu-meeting-minutes-card
+cp SKILL.md .agents/skills/feishu-meeting-minutes-card/SKILL.md
+```
+
+Codex 会自动检测 Skill 变更。可以在 Codex CLI 或 IDE 扩展中运行 `/skills` 查看，或输入 `$feishu-meeting-minutes-card` 显式调用；如果未显示，请重启 Codex。
+
+> 参考：[OpenAI Codex Skills 官方文档](https://developers.openai.com/codex/skills)
 
 ### MiniMax Code
 
