@@ -115,7 +115,8 @@ feishu-meeting-minutes-card/
 
 ## 效果示例
 
-参考案例暂不随仓库公开，请根据自己的会议场景补充脱敏后的截图或示例内容。
+<img width="1007" height="1562" alt="image" src="https://github.com/user-attachments/assets/28264254-202c-4024-9862-971861f862fa" />
+<img width="1070" height="1470" alt="image" src="https://github.com/user-attachments/assets/d796ddb4-b03e-4b8f-a8be-e3d400105327" />
 
 
 ## License
