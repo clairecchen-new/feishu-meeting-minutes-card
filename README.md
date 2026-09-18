@@ -1,4 +1,4 @@
-<img width="785" height="2004" alt="image" src="https://github.com/user-attachments/assets/39adffa6-85b2-4e15-ab35-cf8187a09c46" /># feishu-meeting-minutes-card
+# feishu-meeting-minutes-card
 
 当前版本：**v2.0**
 
