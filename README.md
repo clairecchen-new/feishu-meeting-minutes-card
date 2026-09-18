@@ -1,4 +1,4 @@
-# feishu-meeting-minutes-card
+<img width="785" height="2004" alt="image" src="https://github.com/user-attachments/assets/39adffa6-85b2-4e15-ab35-cf8187a09c46" /># feishu-meeting-minutes-card
 
 当前版本：**v2.0**
 
@@ -126,8 +126,8 @@ feishu-meeting-minutes-card/
 
 ## 效果示例
 
-<img width="1007" height="1562" alt="image" src="https://github.com/user-attachments/assets/28264254-202c-4024-9862-971861f862fa" />
-<img width="1070" height="1470" alt="image" src="https://github.com/user-attachments/assets/d796ddb4-b03e-4b8f-a8be-e3d400105327" />
+2.0版本示意图 <img width="785" height="2004" alt="image" src="https://github.com/user-attachments/assets/7a9986f6-58a0-49a0-bcdb-b32a730d0857" />
+
 
 
 ## License
