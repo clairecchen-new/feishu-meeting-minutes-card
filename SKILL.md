@@ -1,9 +1,13 @@
 ---
 name: feishu-meeting-minutes-card
 description: 根据飞书会议纪要文档或会议记录文本，提炼结构化会议纪要并生成飞书 interactive 卡片。触发词：会议纪要、整理会议纪要、会议纪要卡片、会议总结、会议要点、总结一下这个会。
+metadata:
+  version: "2.0"
 ---
 
 # 飞书会议纪要卡片
+
+版本：v2.0
 
 将飞书会议纪要文档（语音转写或手动记录）整理为结构清晰的飞书 interactive 卡片，并发送到当前会话。
 
